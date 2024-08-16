@@ -5,3 +5,5 @@
 Learning Lua, Py and Js (Skilled)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jota-js&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
